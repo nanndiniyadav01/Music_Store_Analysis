@@ -6,7 +6,7 @@ This project analyzes a music store database using SQL.
 It provides insights into customer spending, sales trends, employee hierarchy, and revenue distribution using structured queries.
 <br>
 <br>
-Features & Insights
+<b>Features & Insights</b>
 <br>
 ✔ Top 5 highest-spending customers
 <br>
@@ -22,7 +22,7 @@ Features & Insights
 <br>
 <br>
 
-Tech Stack
+<b>Tech Stack</b>
 <br>
 PostgreSQL
 <br>
